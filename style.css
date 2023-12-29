@@ -1,85 +1,47 @@
-/* Add your provided CSS styles here */
-.sign-up-page {
-  background-color: transparent;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
 }
 
-.sign-up-page .div {
-  background-image: url(./sign-up-page.png);
-  background-position: 50% 50%;
-  background-size: cover;
-  height: 1080px;
-  position: relative;
-  width: 1920px;
-}
-
-.sign-up-page .navigation {
-  height: 73px;
-  left: 162px;
-  position: absolute;
-  top: 49px;
-  width: 1565px;
-}
-
-.sign-up-page .typeface-logo {
-  height: 73px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 232px;
-}
-
-.sign-up-page .overlap-group {
-  height: 73px;
-  position: relative;
-  width: 228px;
-}
-
-.sign-up-page .text-wrapper {
-  color: #ffffff;
-  font-family: "Montserrat-ExtraBold", Helvetica;
-  font-size: 48px;
-  font-weight: 800;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
+header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px;
   text-align: center;
-  top: 0;
 }
 
-.sign-up-page .text-wrapper-2 {
-  color: #ffffff;
-  font-family: "Montserrat-Regular", Helvetica;
-  font-size: 23px;
-  font-weight: 400;
-  left: 0;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+section {
+  margin: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
   text-align: center;
-  top: 47px;
-  white-space: nowrap;
-  width: 228px;
 }
 
-.sign-up-page .discover-nav {
-  color: #ffffff;
-  font-family: "Montserrat-Regular", Helvetica;
-  font-size: 23px;
-  font-weight: 400;
-  left: 1152px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  text-align: center;
-  top: 30px;
+footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
-/* Continue adding the rest of the provided CSS styles here */
-
-
+footer ul li {
+  display: inline;
+  margin-right: 10px;
+}
 
