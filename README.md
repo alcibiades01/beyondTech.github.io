@@ -87,8 +87,8 @@ For inquiries, email us at club.beyondtech@gmail.com
 ## Gallery
 
 ### Photo Gallery
-![Event Photo 1](link_to_photo_1)
-![Event Photo 2](link_to_photo_2)
+![Event Photo 1](IMG_1327.JPG)
+![Event Photo 2](IMG_1328.JPG)
 
 ### Videos or Multimedia Content
 [Link to Club Beyond Tech YouTube Channel]
