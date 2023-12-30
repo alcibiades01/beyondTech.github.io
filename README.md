@@ -36,8 +36,8 @@ Club Beyond Tech was founded in october of 2023 by a group of passionate individ
 - workshop in january
 
 ### Event Photos and Highlights
-![Event Photo 1](IMG_13322.JPG)
-![Event Photo 2](IMG_13302.JPG)
+![Event Photo 1](IMG_13302.JPG)
+![Event Photo 2](IMG_13322.JPG)
 
 ## Get Involved
 
