@@ -1,3 +1,7 @@
+---
+layout: default
+title: Club Beyond Tech
+---
 # Club Beyond Tech
 
 ## About Us
