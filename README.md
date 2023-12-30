@@ -34,8 +34,8 @@ Club Beyond Tech was founded in october of 2023 by a group of passionate individ
 - workshop in january
 
 ### Event Photos and Highlights
-![Event Photo 1](link_to_photo_1)
-![Event Photo 2](link_to_photo_2)
+![Event Photo 1](IMG_13322.JPG)
+![Event Photo 2](IMG_13302.JPG)
 
 ## Get Involved
 
@@ -46,7 +46,7 @@ Club Beyond Tech was founded in october of 2023 by a group of passionate individ
 - [List Volunteer Opportunities]
 
 ### Project Collaboration Details
-If you're interested in collaborating on a project, reach out to [Project Coordinator's Name].
+If you're interested in collaborating on a project, reach out to Project Coordinator Trupti nagraj.
 
 ## Blog/News Section
 
@@ -57,8 +57,8 @@ If you're interested in collaborating on a project, reach out to [Project Coordi
 - [Links to Tech-related Articles]
 
 ### Member Spotlights or Interviews
-- [Member Spotlight 1]
-- [Member Spotlight 2]
+![member photo](IMG_13302.JPG)
+
 
 ## Resources
 
