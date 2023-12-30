@@ -22,7 +22,9 @@ Club Beyond Tech was founded in october of 2023 by a group of passionate individ
 - Collaborative projects and hands-on learning experiences
 
 ### Membership Criteria and Process
-- The membership criteria will be shared shortly 
+- The membership criteria will be shared shortly
+- fill in this form to secure a chance to get into the club
+- [Forms](https://forms.gle/qKCaRXzY7ikNLZLu9)
 
 ### Testimonials
 > "Joining Club Beyond Tech was a game-changer for my career in tech. The community support and learning opportunities are unparalleled!" - shreya girish
@@ -77,9 +79,8 @@ If you're interested in collaborating on a project, reach out to Project Coordin
 For inquiries, email us at club.beyondtech@gmail.com
 
 ### Social Media Links
-- [Facebook](link_to_facebook)
-- [Twitter](link_to_twitter)
-- [LinkedIn](link_to_linkedin)
+- [Instagram](https://www.instagram.com/beyondtech_jnnce?igsh=MW1obDgzcjJnOGY5Mw==)
+- [LinkedIn](https://www.linkedin.com/in/anukeerthana-mb-011681259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ### Feedback or Inquiry Form
 [Link to Feedback Form]
@@ -105,10 +106,6 @@ For inquiries, email us at club.beyondtech@gmail.com
 
 ### Positive Feedback from Members
 > "Club Beyond Tech has been a source of inspiration and learning. The camaraderie among members is truly remarkable!" - [Member Name]
-
-### Success Stories or Impactful Experiences
-- [Success Story 1]
-- [Success Story 2]
 
 ## Footer
 [Copyright Information and Any Additional Details]
