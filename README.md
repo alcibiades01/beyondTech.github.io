@@ -105,7 +105,7 @@ For inquiries, email us at club.beyondtech@gmail.com
 ## Testimonials
 
 ### Positive Feedback from Members
-> "Club Beyond Tech has been a source of inspiration and learning. The camaraderie among members is truly remarkable!" - [Member Name]
+> "Club Beyond Tech has been a source of inspiration and learning. The camaraderie among members is truly remarkable!" - Trupti nagraj
 
 ## Footer
-[Copyright Information and Any Additional Details]
+-Copyright Information and Any Additional Details
